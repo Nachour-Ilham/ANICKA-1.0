@@ -1,4 +1,4 @@
-# ANICKA-1.0
+# ANICKA-1.0 chatbot
 
 ANICKA is a chatbot project designed to engage in conversations with users, making use of Natural Language Processing (NLP) techniques. The project was written in Python programming language and employs various libraries including nltk, torch, and tkinter.
 
